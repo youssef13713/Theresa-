@@ -1,2 +1,2 @@
-# Theresa-
+# Thesora-
 My Android App
